@@ -1,0 +1,20 @@
+#send-button {
+    float: right;
+}
+
+#send-button .material-icons {
+    font-size: 1.2em;
+}
+
+code {
+    font-family: 'Inconsolata', ; 
+}
+
+.mail-content {
+    width: 100%;
+    min-width: 400px;
+}
+
+.mail-content code {
+    padding: 16px;
+}
